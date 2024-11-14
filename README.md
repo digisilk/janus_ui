@@ -29,7 +29,7 @@ Ensure you have met the following requirements:
 1. **Clone the repository:**
 ```
    git clone https://github.com/digisilk/janus_ui.git
-   cd janus_beginner
+   cd janus_ui
 ```
 2. **Create a virtual environment:**
 ```
@@ -79,13 +79,11 @@ Graphs will display in the UI, and a link to download the results as a HTML file
 ## Dependencies
 
 ```
-- Flask
 - Pandas
 - Plotly
-- Requests
+- Dash
 - Androguard
 - tldextract
-- tqdm
 ```
 
 ## Contributing
